@@ -1,0 +1,21 @@
+// app global css in SCSS form
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+:root {
+  // --q-primary: rgb(115, 103, 240) !important;
+  font-family: 'Playfair Display', serif;
+  font-family: 'Noto Sans', sans-serif;
+}
+
+.playfair-display {
+  font-family: 'Playfair Display', serif;
+  font-optical-sizing: auto;
+  font-weight: auto;
+  font-style: normal;
+}
+.noto-sans {
+  font-family: 'Noto Sans', sans-serif;
+  font-optical-sizing: auto;
+  font-weight: auto;
+  font-style: normal;
+}
